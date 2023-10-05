@@ -1,18 +1,10 @@
 
-
-
-
-
-
-
-
-
 [
 
  {
        
         "aage": "21-65",
-        "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/Cashbro.png",
         "sum_one": "до 30 000 ",
         "percent": "0%",
 "text": "Быстрейший займ",
@@ -23,7 +15,7 @@
   {
         
         "aage": "21-65",
-        "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/Cashbro.png",
         "sum_one": "до 80 000",
           "percent": "1%",
    "text": "Только паспорт",
@@ -35,7 +27,7 @@
 {
       
         "aage": "21-65",
-        "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/ab6fdb6fed1d1e279c2195eb65250a4ffd5840a6/Cashbro.png",
         "sum_one": "до 15 000",
             "percent": "0%",
    "text": "",
