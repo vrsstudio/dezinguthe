@@ -1,0 +1,47 @@
+
+
+
+
+
+
+
+
+
+[
+
+ {
+       
+        "aage": "21-65",
+        "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+        "sum_one": "до 30 000 ",
+        "percent": "0%",
+"text": "Быстрейший займ",
+        "url": "https://google.com"
+    } ,
+    
+
+  {
+        
+        "aage": "21-65",
+        "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+        "sum_one": "до 80 000",
+          "percent": "1%",
+   "text": "Только паспорт",
+        "url": "https://www.homecredit.ru"
+    },
+
+
+
+{
+      
+        "aage": "21-65",
+        "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+        "sum_one": "до 15 000",
+            "percent": "0%",
+   "text": "",
+        "url": "https://google.com"
+    }   
+    
+    
+    
+]
