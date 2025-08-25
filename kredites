@@ -1,22 +1,15 @@
 [
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finteresmx.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/businesses.png",
     "company_name": "Tarjeta Crédito Business",
     "loan_amount":"Hasta 400 000 €",
-   "url": "https://tds.pdl-profit.com/h/1qbj6891ae7bc6d92"
+   "url": "https://www.mastercard.es/es-es/empresas/empresas-pequenas-medianas/tarjetas/tarjeta-credito-business.html"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finzmomx.png",
-    "company_name": "Transparente y seguro",
-    "loan_amount":"Hasta 150 000 €",
-   "url": "https://tds.pdl-profit.com/h/1qoj6891ae7cf0f71"
-  }
-,
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/dineromonmx.png",
-    "company_name": "Préstamo sin complicaciones",
-    "loan_amount":"Hasta 224 000 €",
-   "url": "https://tds.pdl-profit.com/h/1qhv6891ae7c1ba4c"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/worldbusnies.png",
+    "company_name": "Crédito World Business",
+    "loan_amount":"Hasta 350 000 €",
+   "url": "https://www.mastercard.es/es-es/empresas/empresas-pequenas-medianas/tarjetas/tarjeta-credito-world-business.html"
   }
 
 ]
