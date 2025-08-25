@@ -1,21 +1,21 @@
 [{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/vexi2.png",
-    "company_name": "Vexi Clasica & Vexi Basica",
-    "loan_amount":"de 5 000 a 12 000 $",
-   "url": "https://tds.pdl-profit.com/h/1req6899937642699"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/goldes.png",
+    "company_name": "World Mastercard",
+    "loan_amount":"de 1 000 a 100 000 €",
+   "url": "https://www.mastercard.es/es-es/consumidores/escoge-tu-tarjeta/tarjetas-de-credito/tarjeta-credito-world.html"
   }
 ,
 
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/vexwhite.png",
-    "company_name": "Vexi Beginnings Light",
-    "loan_amount":"de 2 500 a 20 000 $",
-   "url": "https://tds.pdl-profit.com/h/1req6899937642699"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/prepaides.png",
+    "company_name": "Tarjeta prepago Mastercard",
+    "loan_amount":"de 2 500 a 200 000 €",
+   "url": "https://www.mastercard.es/es-es/consumidores/escoge-tu-tarjeta/tarjetas-prepago/tarjeta-prepago-estandar.html"
 }
 ,{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/vexiblac.png",
     "company_name": "Vexi American Express",
-    "loan_amount":"de 3 500 a 15 000 $",
+    "loan_amount":"de 3 500 a 300 000 €",
    "url": "https://tds.pdl-profit.com/h/1req6899937642699"
   }
   
