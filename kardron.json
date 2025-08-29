@@ -1,12 +1,12 @@
 [
   {
-	"name": "UniCreditCard PREMIUM",
+	"name": "Visa Classic Debit",
 	"price_info": "От 3% До 500 000 руб",
     "image_url": "http://zaem-online.kz/img/alfa.png",
     "sum": "4000 - 70 000",
 	"term": "5 - 100",
 	"percent": "0,7% - 1,55%",
-    "url": "https://www.ucfin.ro/carduri-de-credit/unicreditcard-premium",
+    "url": "https://www.nexentbank.ro/persoane-fizice/Carduri-de-Debit/Visa-Clasic-Debit#visadebit",
     "text": "<p>100 дней без % по кредиту на покупки и снятие наличных.</p><p>Кредитный лимит до 500 000 руб.</p>"
   },
   
@@ -31,5 +31,6 @@
     "text": "<p>Новый повышенный кэшбэк 5% на бытовую технику, электронику, одежду и обувь</p><p>Кредитный лимит до 300 000 руб.</p>"
   }
 ]
+
 
 
