@@ -1,15 +1,15 @@
 [
   {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/bestcreditro.png",
-    "name": "Amigo",
+    "name": "Bestcredit RO",
     "rating": 5,
     "age": "18-70",
     "percent": "до 1%",
-    "sum_one": "până la 25 000 lei",
+    "sum_one": "până la 10 000 lei",
     "sum_min": "від 500 lei",
     "days_info": "90–360 zile",
     "term_to": "360",
-    "url": "https://ten.finme.com/click?pid=47&offer_id=167&sub3=kr",
+    "url": "https://appstopcredits.online/bestcredit/",
     "email": "info@amigo.com.ua",
     "address": "04107, м. Київ, вул. Багговутівська, 17-21",
     "work_time": "24/7 онлайн, служба підтримки 09:00-20:00",
@@ -23,7 +23,7 @@
     "kruglosutochno": true
   },
   {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/prepaidpl.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/sferacreditro.png",
     "name": "Loan+",
     "rating": 5,
     "age": "18-65",
@@ -32,7 +32,7 @@
     "sum_min": "от 500 lei",
     "days_info": "90–360 zile",
     "term_to": "80",
-    "url": "https://loanplus.com.ua/?utm_source=alexapp&utm_medium=affiliate&utm_campaign=app",
+    "url": "https://appstopcredits.online/sferacredit/",
     "email": "support@loanplus.com.ua",
     "address": "04080, м. Київ, вул. Константинівська, 75, офіс 601А",
     "work_time": "24/7 онлайн",
@@ -69,5 +69,6 @@
     "kruglosutochno": true
   }
 ]
+
 
 
