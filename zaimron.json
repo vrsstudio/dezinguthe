@@ -46,12 +46,12 @@
     "kruglosutochno": true
   },
   {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/prepaidpl.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/horacreditro.png",
     "name": "Tengo",
     "rating": 5,
     "age": "18–70",
     "percent": "0,01%",
-    "sum_one": "până la 15 000 lei",
+    "sum_one": "până la 10 000 lei",
     "sum_min": "от 500 lei",
     "days_info": "90–360 zile",
     "term_to": "360",
@@ -69,6 +69,7 @@
     "kruglosutochno": true
   }
 ]
+
 
 
 
