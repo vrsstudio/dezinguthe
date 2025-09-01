@@ -47,29 +47,6 @@
   },
   {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/prepaidpl.png",
-    "name": "Miloan",
-    "rating": 5,
-    "age": "18–70",
-    "percent": "до 35% річних (макс.)",
-    "sum_one": "până la 25 000 lei",
-    "sum_min": "від 500 lei",
-    "days_info": "від 90 до 360 zile",
-    "term_to": "360",
-    "url": "https://ten.finme.com/click?pid=47&offer_id=165&sub3=kre",
-    "email": "info@miloan.ua",
-    "address": null,
-    "work_time": "24/7 онлайн, підтримка 09:00–20:00",
-    "license": "ІК № 176 від 14.07.2016",
-    "scorost": "до 15 хвилин (повторний — до 5 хвилин)",
-    "dokuments": "паспорт + ІПН",
-    "sposob": "онлайн (на карту)",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-  {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/prepaidpl.png",
     "name": "Tengo",
     "rating": 5,
     "age": "18–70",
@@ -92,4 +69,5 @@
     "kruglosutochno": true
   }
 ]
+
 
