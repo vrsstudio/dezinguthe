@@ -12,10 +12,10 @@
     "url": "https://appstopcredits.online/bestcredit/",
     "email": "info@amigo.com.ua",
     "address": "04107, м. Київ, вул. Багговутівська, 17-21",
-    "work_time": "24/7 онлайн, служба підтримки 09:00-20:00",
-    "license": "ІК № 176 (НФКЦ) від 14.07.2016",
+    "work_time": "24/7 online, asistență disponibilă între orele 09:00–20:00",
+    "license": "IC nr. 179 (CNPF) din 14.04.2015",
     "scorost": "до 15 хвилин",
-    "dokuments": "паспорт + ІПН",
+    "dokuments": "buletin + cod numeric personal (CNP)",
     "sposob": "онлайн, через сайт або мобільний додаток",
     "nalichnie": false,
     "nakartu": true,
@@ -35,10 +35,10 @@
     "url": "https://appstopcredits.online/sferacredit/",
     "email": "support@loanplus.com.ua",
     "address": "04080, м. Київ, вул. Константинівська, 75, офіс 601А",
-    "work_time": "24/7 онлайн",
-    "license": "Ліцензія НБУ (ООО «Фінансова компанія Абекор»), переоформлена 12.07.2024",
+    "work_time": "24/7 online",
+    "license": "Licență emisă de Banca Națională a Ucrainei (SRL «Compania Financiară Abecor»), reemisă la data de 12.07.2024",
     "scorost": "5-15 хвилин",
-    "dokuments": "паспорт + ІПН + карта + телефон",
+    "dokuments": "buletin + CNP + card bancar + telefon",
     "sposob": "онлайн",
     "nalichnie": false,
     "nakartu": true,
@@ -58,10 +58,10 @@
     "url": "https://appstopcredits.online/horacredit/",
     "email": "info@tengo.ua",
     "address": "04107, м. Київ, вул. Багговутівська, 17-21",
-    "work_time": "24/7 онлайн, підтримка 09:00–20:00",
-    "license": "ІК № 176 (свідоцтво), видано 14.07.2016",
+    "work_time": "Online 24/7, asistență între orele 09:00–20:00",
+    "license": "IC nr. 176 (certificat), emis la 14.07.2013",
     "scorost": "до 15 хвилин (повторно — ~5 хвилин)",
-    "dokuments": "паспорт + ІПН",
+    "dokuments": "buletin + CNP",
     "sposob": "онлайн (BankID, карта)",
     "nalichnie": false,
     "nakartu": true,
@@ -69,6 +69,7 @@
     "kruglosutochno": true
   }
 ]
+
 
 
 
