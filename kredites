@@ -1,15 +1,46 @@
 [
+
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/businesses.png",
-    "company_name": "Tarjeta Crédito Business",
-    "loan_amount":"Hasta 400 000 €",
-   "url": "https://www.mastercard.es/es-es/empresas/empresas-pequenas-medianas/tarjetas/tarjeta-credito-business.html"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/wandoes.png",
+    "company_name": "Transparente y seguro",
+    "loan_amount":"Hasta 300 eur",
+   "url": "https://tds.pdl-profit.com/h/1reu68c00c7395581"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/worldbusnies.png",
-    "company_name": "Crédito World Business",
-    "loan_amount":"Hasta 350 000 €",
-   "url": "https://www.mastercard.es/es-es/empresas/empresas-pequenas-medianas/tarjetas/tarjeta-credito-world-business.html"
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/cashperes.png",
+    "company_name": "Confianza y rapidez",
+    "loan_amount":"Hasta 1 000 eur",
+   "url": "https://tds.pdl-profit.com/h/1rdo68adcb1a59a0b"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/mycredittes.png",
+    "company_name": "Solicita en 5 minutos!",
+    "loan_amount":"Hasta 2 500 eur",
+   "url": "https://tds.pdl-profit.com/h/1rdk68adcb1d260fc"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/haycreditoes.png",
+    "company_name": "Crédito en minutos",
+    "loan_amount":"Hasta 1 500 eur",
+   "url": "https://tds.pdl-profit.com/h/1rde68ac4128e8d0c"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpuges.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 5 000 eur",
+   "url": "https://tds.pdl-profit.com/h/1r8668adcb2096650"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/prestasses.png",
+    "company_name": "Préstamo sin complicaciones",
+    "loan_amount":"Hasta 5 000 eur",
+   "url": "https://tds.pdl-profit.com/h/1rgk689270598b5b7"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/instadineroesss.png",
+    "company_name": "Tu préstamo sin esperas",
+    "loan_amount":"Hasta 1 000 eur",
+   "url": "https://tds.pdl-profit.com/h/1rg668adcab038007"
   }
 
 ]
