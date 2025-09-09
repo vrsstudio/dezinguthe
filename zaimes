@@ -1,27 +1,52 @@
-[{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/financial24ess.png",
+[
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
     "company_name": "Solicita en 2 minutos!",
-    "loan_amount":"Hasta 5 000 eur",
-   "url": "https://appstopcredits.online/financiar24/"
-  }
-,
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/doprestamoes.png",
-    "company_name": "Obtén dinero en línea gratis ahora",
-    "loan_amount":"Hasta 10 000 eur",
-   "url": "https://appstopcredits.online/doprestamo/"
-  }
-  ,
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditioes.png",
-    "company_name": "Sin aval ni garantías",
-    "loan_amount":"Hasta 75 000 eur",
-   "url": "https://appstopcredits.online/creditio/"
+    "loan_amount":"Hasta 1 000 eur",
+   "url": "https://tds.pdl-profit.com/h/1rge68ac5662e45bb"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/haycreditoes.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneyaes.png",
+    "company_name": "Obtén dinero en línea gratis ahora",
+    "loan_amount":"Hasta 1 000 eur",
+   "url": "https://tds.pdl-profit.com/h/1rg868ac35719c962"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/quebuenoes.png",
     "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 1 000 eur",
+   "url": "https://tds.pdl-profit.com/h/1rem68adcac2eb0d1"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/instadineroes.png",
+    "company_name": "Rápido y conveniente",
+    "loan_amount":"Hasta 1 000 eur",
+   "url": "https://tds.pdl-profit.com/h/1rdq68ac4106a8db2"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditioes.png",
+    "company_name": "Recibe tu dinero en menos de 15 minutos",
+    "loan_amount":"Hasta 10 000 eur",
+   "url": "https://tds.pdl-profit.com/h/1rgc68927085b00e2"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpayes.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 1 000 eur",
+   "url": "https://tds.pdl-profit.com/h/1rgi68ac355e9d208"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/financial24ess.png",
+    "company_name": "Proceso 100% en linea",
     "loan_amount":"Hasta 2 000 eur",
-   "url": "https://appstopcredits.online/haycredito/"
+   "url": "https://tds.pdl-profit.com/h/1rds68ac34f82f7b8"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/doprestamoes.png",
+    "company_name": "Recibe tu dinero en menos de 10 minutos",
+    "loan_amount":"Hasta 20 000 eur",
+   "url": "https://tds.pdl-profit.com/h/1re068ac34ebe0de0"
   }
+
+
 ]
