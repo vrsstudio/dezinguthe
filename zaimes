@@ -13,12 +13,6 @@
    "url": "https://tds.pdl-profit.com/h/1r8668adcb2096650"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
-    "company_name": "Solicita en 2 minutos!",
-    "loan_amount":"Hasta 5 000 eur",
-   "url": "https://tds.pdl-profit.com/h/1rge68ac5662e45bb"
-  },
-{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/moneyaes.png",
     "company_name": "Obtén dinero en línea gratis ahora",
     "loan_amount":"Hasta 2 000 eur",
@@ -37,18 +31,6 @@
    "url": "https://tds.pdl-profit.com/h/1rem68adcac2eb0d1"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/instadineroes.png",
-    "company_name": "Rápido y conveniente",
-    "loan_amount":"Hasta 8 000 eur",
-   "url": "https://tds.pdl-profit.com/h/1rdq68ac4106a8db2"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditioes.png",
-    "company_name": "Recibe tu dinero en menos de 15 minutos",
-    "loan_amount":"Hasta 10 000 eur",
-   "url": "https://tds.pdl-profit.com/h/1rgc68927085b00e2"
-  },
-{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpayes.png",
     "company_name": "Sin aval ni garantías",
     "loan_amount":"Hasta 6 000 eur",
@@ -59,6 +41,12 @@
     "company_name": "Recibe tu dinero en menos de 10 minutos",
     "loan_amount":"Hasta 20 000 eur",
    "url": "https://tds.pdl-profit.com/h/1re068ac34ebe0de0"
+  },
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+    "company_name": "Solicita en 2 minutos!",
+    "loan_amount":"Hasta 5 000 eur",
+   "url": "https://tds.pdl-profit.com/h/1rge68ac5662e45bb"
   }
 
 
