@@ -25,22 +25,10 @@
    "url": "https://tds.pdl-profit.com/h/1re668adcb0d03e2f"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/quebuenoes.png",
-    "company_name": "Sin aval ni garantías",
-    "loan_amount":"Hasta 4 000 eur",
-   "url": "https://tds.pdl-profit.com/h/1rem68adcac2eb0d1"
-  },
-{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpayes.png",
     "company_name": "Sin aval ni garantías",
     "loan_amount":"Hasta 6 000 eur",
    "url": "https://tds.pdl-profit.com/h/1rgi68ac355e9d208"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/doprestamoes.png",
-    "company_name": "Recibe tu dinero en menos de 10 minutos",
-    "loan_amount":"Hasta 20 000 eur",
-   "url": "https://tds.pdl-profit.com/h/1re068ac34ebe0de0"
   },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
@@ -48,6 +36,4 @@
     "loan_amount":"Hasta 5 000 eur",
    "url": "https://tds.pdl-profit.com/h/1rge68ac5662e45bb"
   }
-
-
 ]
