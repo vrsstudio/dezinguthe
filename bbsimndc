@@ -1,4 +1,13 @@
-[ {
+[ 
+{
+       
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/vtbbank.png",
+             "sum_one": "до 3 000 000  ₽",
+        "percent": "1%",
+  "text": "Авторешение",
+        "url": "https://www.vtb.ru/personal/kredit/nalichnymi/"
+    },
+{
        
         "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/sovkobank.png",
              "sum_one": "до 80 000  ₽",
@@ -6,17 +15,21 @@
   "text": "Авторешение",
         "url": "https://sovcombank.ru/credits/cash"
     },
-    
 
-
-
+{
        
-    {
-        
-        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/tinkoffruw.png",
-             "sum_one": "до 80 000  ₽",
-        "percent": "1%",
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/tbank.png",
+             "sum_one": "до 4 000 000  ₽",
+        "percent": "0%",
+  "text": "Авторешение",
         "url": "https://www.tbank.ru/loans/cash-loan/"
+    },
+{
+        
+        "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/AlfBank.png",
+             "sum_one": "до 5 000 000  ₽",
+        "percent": "1%",
+        "url": "https://alfabank.ru/get-money/credit/credit-cash/short/#form"
     }
     
     
