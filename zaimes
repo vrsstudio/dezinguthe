@@ -6,6 +6,12 @@
    "url": "https://tds.pdl-profit.com/h/1rg868ac35719c962"
   },
 {
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
+    "company_name": "Solicita en 2 minutos!",
+    "loan_amount":"Hasta 5 000 eur",
+   "url": "https://tds.pdl-profit.com/h/1rge68ac5662e45bb"
+  },
+{
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpuges.png",
     "company_name": "Sin aval ni garantías",
     "loan_amount":"Hasta 5 000 eur",
@@ -13,21 +19,16 @@
   },
 
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finolomx.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/financial24ess.png",
     "company_name": "forma fácil de pagar en cuotas",
     "loan_amount":"Hasta 6 000 eur",
-   "url": "https://tds.pdl-profit.com/h/1rhk6909a596c9344"
+   "url": "https://tds.pdl-profit.com/h/1rds68ac34f82f7b8"
   },
 {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditoes.png",
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/creditioes.png",
     "company_name": "Sin aval ni garantías",
     "loan_amount":"Hasta 6 000 eur",
-   "url": "https://tds.pdl-profit.com/h/1qju6909a5e7c5e53"
+   "url": "https://tds.pdl-profit.com/h/1rfa68ac429439220"
   },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
-    "company_name": "Solicita en 2 minutos!",
-    "loan_amount":"Hasta 5 000 eur",
-   "url": "https://tds.pdl-profit.com/h/1rge68ac5662e45bb"
-  }
+
 ]
