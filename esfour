@@ -1,0 +1,40 @@
+[
+  {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/bbvacols.png",
+    "name": "Dinero en tu cuenta rápidamente",
+    "rating": 5,
+    "age": "desde 18 años",
+    "sum_one": "de 500 € hasta 50.000 €",
+    "odobrenie": "Alta",
+    "url": "https://www.bbva.es/personas/productos/prestamos/prestamo-personal-online.html"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/CaixabankLogo.png",
+    "name": "Calcula y solicita tu préstamo",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Alta",
+    "sum_one": "de 500 € hasta 30.000 €",
+    "url": "https://www.caixabank.es/empresa/negocios/tarjetas/mycard.html"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/sabarelbankss.png",
+    "name": "Disponible las 24 horas",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Alta",
+    "sum_one": "de 500 € hasta 50.000 €",
+    "url": "https://www.bancsabadell.com/bsnacional/es/particulares/prestamos-y-creditos/"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/logo_santander_rojo.png",
+    "name": "Solicita tu préstamo en minutos",
+    "rating": 4,
+    "age": "desde 18 años",
+    "odobrenie": "Media",
+    "sum_one": "de 500 € hasta 25.000 €",
+    "url": "https://www.bancosantander.es/particulares/hazte-cliente/"
+  }
+ 
+  
+]
