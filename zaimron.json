@@ -184,39 +184,16 @@
     "kruglosutochno": true
   },
   {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/creditnice.png",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/imagecredius11ro.png",
     "name": "Loan+",
     "rating": 5,
     "age": "18-65",
-    "percent": "от 0,1%",
-    "sum_one": "până la 20 000 lei",
+    "percent": "от 0,01%",
+    "sum_one": "până la 26 000 lei",
     "sum_min": "от 500 lei",
     "days_info": "90–360 zile",
     "term_to": "80",
-    "url": "https://track-pdlp.com/h/1rat6a3f5d249d23c",
-    "email": "support@loanplus.com.ua",
-    "address": "04080, м. Київ, вул. Константинівська, 75, офіс 601А",
-    "work_time": "24/7 online",
-    "license": "Licență emisă de Banca Națională a Ucrainei (SRL «Compania Financiară Abecor»), reemisă la data de 12.07.2024",
-    "scorost": "5-15 хвилин",
-    "dokuments": "buletin + CNP + card bancar + telefon",
-    "sposob": "онлайн",
-    "nalichnie": false,
-    "nakartu": true,
-    "zafiveminut": true,
-    "kruglosutochno": true
-  },
-  {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/main/creditnice.png",
-    "name": "Loan+",
-    "rating": 5,
-    "age": "18-65",
-    "percent": "от 0,1%",
-    "sum_one": "până la 20 000 lei",
-    "sum_min": "от 500 lei",
-    "days_info": "90–360 zile",
-    "term_to": "80",
-    "url": "https://track-pdlp.com/h/1rat6a3f5d249d23c",
+    "url": "https://track-pdlp.com/h/1rql6a79b34a6c904",
     "email": "support@loanplus.com.ua",
     "address": "04080, м. Київ, вул. Константинівська, 75, офіс 601А",
     "work_time": "24/7 online",
@@ -229,6 +206,7 @@
     "zafiveminut": true,
     "kruglosutochno": true
   }
+ 
 ]
 
 
