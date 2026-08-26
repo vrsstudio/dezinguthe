@@ -36,22 +36,15 @@
     "url": "https://tds.pdl-profit.com/h/1rgi68ac355e9d208"
   },
 {
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditoes.png",
-    "name": "Préstamos para lo que necesites",
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/doprestamoes.png",
+    "name": "Sin aval ni garantías",
     "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Media",
-    "sum_one": "de 50 € hasta 8.760 €",
-    "url": "https://track-pdlp.com/h/1qju6909a5e7c5e53"
-  },{
-    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/binixmx.png",
-    "name": "Todo en un solo lugar",
-    "rating": 5,
-    "age": "desde 18 años",
-    "odobrenie": "Media",
-    "sum_one": "de 100 € hasta 50.000 €",
-    "url": "https://tds.pdl-profit.com/h/1qgi69cfce2176cfc"
-  },{
+    "sum_one": "de 500 € hasta 9.000 €",
+    "url": "https://track-pdlp.com/h/1re068ac34ebe0de0"
+  },
+{
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/instadineroes.png",
     "name": "Solicita en pocos pasos",
     "rating": 4,
@@ -68,13 +61,32 @@
     "odobrenie": "Media",
     "sum_one": "de 100 € hasta 9.000 €",
     "url": "https://tds.pdl-profit.com/h/1rfs68adcabaf2566"
-  },{
+  },
+{
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
     "name": "Solicita tu préstamo en minutos",
-    "rating": 4,
+    "rating": 5,
     "age": "desde 18 años",
     "odobrenie": "Media",
     "sum_one": "de 500 € hasta 5.000 €",
     "url": "https://track-pdlp.com/h/1rge68ac5662e45bb"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/solcreditoes.png",
+    "name": "Préstamos para lo que necesites",
+    "rating": 4,
+    "age": "desde 18 años",
+    "odobrenie": "Media",
+    "sum_one": "de 50 € hasta 8.760 €",
+    "url": "https://track-pdlp.com/h/1qju6909a5e7c5e53"
+  },
+{
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/binixmx.png",
+    "name": "Todo en un solo lugar",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Media",
+    "sum_one": "de 100 € hasta 50.000 €",
+    "url": "https://tds.pdl-profit.com/h/1qgi69cfce2176cfc"
   }
 ]
