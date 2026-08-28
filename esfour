@@ -26,7 +26,7 @@
     "sum_one": "de 100 € hasta 50.000 €",
     "url": "https://tds.pdl-profit.com/h/1rk5697798f77547e"
   },
-  {
+{
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/finpayes.png",
     "name": "Obtén el dinero que necesitas",
     "rating": 5,
@@ -34,6 +34,15 @@
     "odobrenie": "Media",
     "sum_one": "de 100 € hasta 25.000 €",
     "url": "https://tds.pdl-profit.com/h/1rgi68ac355e9d208"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/credigenuses.png",
+    "name": "Sin aval ni garantías",
+    "rating": 5,
+    "age": "desde 18 años",
+    "odobrenie": "Media",
+    "sum_one": "de 100 € hasta 5.600 €",
+    "url": "https://track-pdlp.com/h/1s2l6a6b70409bc8a"
   },
 {
     "image_url": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/doprestamoes.png",
