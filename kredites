@@ -1,5 +1,10 @@
 [
-
+{
+    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/credigenuses.png",
+    "company_name": "Sin aval ni garantías",
+    "loan_amount":"Hasta 2 300 eur",
+   "url": "https://track-pdlp.com/h/1s2l6a6b70409bc8a"
+  },
 {
     "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/fiestamx.png",
     "company_name": "Transparente y seguro",
@@ -17,13 +22,8 @@
     "company_name": "Crédito en minutos",
     "loan_amount":"Hasta 1 500 eur",
    "url": "https://tds.pdl-profit.com/h/1rk5697798f77547e"
-  },
-{
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/refs/heads/main/credigenuses.png",
-    "company_name": "Sin aval ni garantías",
-    "loan_amount":"Hasta 2 300 eur",
-   "url": "https://track-pdlp.com/h/1s2l6a6b70409bc8a"
   }
+
 
 
 
